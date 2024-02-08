@@ -54,6 +54,7 @@ public class MainClass {
 		// C.move(2);
 		// System.out.println("Car Fuel after moving  stack = " + C.getFuel());
 
+		//code อาทิตย์ที่แล้ว
 		C.setPrice(50000);
 		Person p = new Person("Boss", 5000000);
 		System.out.println("Name = " + p.getName() + " Money = " + p.getMoney());

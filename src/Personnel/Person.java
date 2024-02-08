@@ -2,7 +2,7 @@ package Personnel;
 
 // import Vehicle.Transportarion;
 import Vehicle.Car;
-
+//code อาทิตย์ที่แล้ว
 public class Person {
 	private String name;
 	private int money;
@@ -17,11 +17,7 @@ public class Person {
  
 	
 	
- 
-	
-	
-	
-	
+
 	
 	public String getName() {
 		return name;
